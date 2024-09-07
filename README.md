@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ctrl-r-cmd
+- 👋 Hi, I’m @win-r-cmd
 - 👀 I am interested in creating and learning to create games and programs.
 - 🌱 I am currently learning Python, Web and C languages.
